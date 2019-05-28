@@ -1,2 +1,2 @@
-# Java
-Java Fundamentals
+# Java Fundamentals
+Java Exercises
